@@ -29,7 +29,9 @@ In the vast universe of technology, my interests are as varied as the subjects a
 ![](https://github-contributor-stats.vercel.app/api?username=Bidyarthi404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://apis.scrimba.com/meme-gen/quotes/random" style="height: 400px;" alt="Random Dev Meme"/>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bidyarthi404&icon=4&color=0)](https://visitcount.itsvg.in)
