@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hello Muggles! 🪄✨
+# Hello Muggles! 
+I am Bidyarthi Paul 🪄✨
 
 <img src="https://raw.githubusercontent.com/Bidyarthi404/Images/master/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.webp" width="700" alt="Wizardry">
  <!-- Replace with your favorite magical image link -->
 
-I'm **Bidyarthi Paul**, a 4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering.
+4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering.
 
 ## 🧙‍♂️ Enthusiastic about:
 
