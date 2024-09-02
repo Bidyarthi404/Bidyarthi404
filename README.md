@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://github.com/Bidyarthi404/Github_Images/blob/master/PAUL_CV_new.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
+</a> 
+
 </div>
 
 4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering.
