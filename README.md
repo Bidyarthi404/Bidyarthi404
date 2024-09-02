@@ -3,8 +3,19 @@
 # Hello Muggles! I am Bidyarthi Paul 🪄✨
 
 
-<img src="https://raw.githubusercontent.com/Bidyarthi404/Images/master/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.webp" width="700" alt="Wizardry">
+<img src="https://raw.githubusercontent.com/Bidyarthi404/Images/master/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.webp" width="500" alt="Wizardry">
  <!-- Replace with your favorite magical image link -->
+ <a href="https://shahariar-shibli.github.io">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
+</a>  
+
+<a href="mailto:bidyarthipaul01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/bidyarthi-paul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering.
 
