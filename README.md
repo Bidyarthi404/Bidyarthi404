@@ -23,8 +23,8 @@ In the vast universe of technology, my interests are as varied as the subjects a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bidyarthi404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme/programmerhumor" style="height: 400px;" alt="Random Dev Meme"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
