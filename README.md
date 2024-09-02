@@ -5,11 +5,11 @@
 <img src="https://raw.githubusercontent.com/Bidyarthi404/Images/master/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.webp" width="450" alt="Wizardry">
  <!-- Replace with your favorite magical image link -->
 
-I'm **Bidyarthi Paul**, a 4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering. In the realm of development, I see myself as a modern-day wizard, crafting spells with code and conjuring projects that enchant and improve our world.
+I'm **Bidyarthi Paul**, a 4th-year undergraduate at Ahsanullah University of Science and Technology, currently studying Computer Science and Engineering.
 
 ## 🧙‍♂️ Enthusiastic about:
 
-In the vast universe of technology, my interests are as varied as the subjects at Hogwarts! I am particularly passionate about **Artificial Intelligence** and **Robotics**, where I enjoy exploring the mysteries of machine learning models, and **Software Development**, where I craft robust and innovative applications. I'm always on the quest to learn and master new spells in technology!
+In this rapid growing advancing realm, I want to enhance my skills in the field of Aritificial Intelligence
 
 </div>
 
